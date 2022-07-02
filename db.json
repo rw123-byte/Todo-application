@@ -1,0 +1,21 @@
+{
+    "posts": [{
+            "id": "5",
+            "timestamp": "2022-7-2 10:23",
+            "body": "I like gaming",
+            "status": "Complete"
+        },
+        {
+            "id": "2",
+            "timestamp": "2022-7-2 10:23",
+            "body": "Favourite Game",
+            "status": "Complete"
+        },
+        {
+            "id": "4",
+            "timestamp": "2022-7-2 10:23",
+            "body": "lovely",
+            "status": "Not complete"
+        }
+    ]
+}
